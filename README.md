@@ -8,11 +8,11 @@ There are 4 Design Principles
 <h2 align=center>Color Theory</h2>
 
 <h4>Moods</h4>
-- Red     : 🔥   - Love, Energy, Intensity
-- Yellow  : 🌞  - Joy, Intellect, Attention
-- Green   : 🍀  - Freshness, Safety, Growth
-- Blue    : 💧   - Stability, Trust, Serenity
-- Purple  : 👑  - Royalty, Wealth, Femininity
+- Red     : 🔥   - Love, Energy, Intensity <br>
+- Yellow  : 🌞  - Joy, Intellect, Attention <br>
+- Green   : 🍀  - Freshness, Safety, Growth <br>
+- Blue    : 💧   - Stability, Trust, Serenity <br>
+- Purple  : 👑  - Royalty, Wealth, Femininity <br>
 
 <h6>Analogous Colors</h6>
 <div align=center>
@@ -69,16 +69,29 @@ Vsit: <a href="https://color.adobe.com/create/color-wheel">Adobe Colors</a>, <a 
 
 <h4>2. Layout</h4>
 <div align=center>
-<img src="imgs/2_color.jpg" width=75%>
+<img src="imgs/WebDesignExample3.jpg" width=75%>
+<h4>Example</h4>
+<img src="imgs/WebDesignExample4.jpg" width=45%>
+<img src="imgs/WebDesignExample5.jpg" width=45%>
 </div>
 
 
-<h4>3. White Spaces (Around objects)</h4>
+<h4>3. Alignments</h4>
 <div align=center>
-<img src="imgs/2_color.jpg" width=75%>
+<img src="imgs/WebDesignExample6.jpg" width=75%>
 </div>
+
+
+<h4>4. White Spaces (Around objects)</h4>
+<div align=center>
+<!-- <img src="imgs/WebDesignExample3.jpg" width=75%> -->
+
+
+</div>
+
+
 
 <h4>4. Audience</h4>
 <div align=center>
-<img src="imgs/2_color.jpg" width=75%>
+<!-- <img src="imgs/WebDesignExample4.jpg" width=75%> -->
 </div>
