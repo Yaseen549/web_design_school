@@ -54,8 +54,9 @@ Vsit: <a href="https://color.adobe.com/create/color-wheel">Adobe Colors</a>, <a 
 <h2 align=center>User Interface</h2>
 1. Hierarchy <br>
 2. Layout <br>
-3. White Spaces (Around objects) <br>
-4. Audience <br>
+3. Alignments <br>
+4. White Spaces (Around objects) <br>
+5. Audience <br>
 
 <h4>1. Hierarchy</h4>
 <div align=center>
@@ -79,19 +80,20 @@ Vsit: <a href="https://color.adobe.com/create/color-wheel">Adobe Colors</a>, <a 
 <h4>3. Alignments</h4>
 <div align=center>
 <img src="imgs/WebDesignExample6.jpg" width=75%>
+<h4>Example</h4>
+<img src="imgs/a1.jpg" width=45%>
+<img src="imgs/a2.jpg" width=45%>
 </div>
 
 
 <h4>4. White Spaces (Around objects)</h4>
 <div align=center>
-<!-- <img src="imgs/WebDesignExample3.jpg" width=75%> -->
-
-
+<img src="imgs/WebDesignExample7.jpg" width=75%>
 </div>
 
 
 
-<h4>4. Audience</h4>
+<h4>5. Audience</h4>
 <div align=center>
-<!-- <img src="imgs/WebDesignExample4.jpg" width=75%> -->
+<img src="imgs/WebDesignExample8.jpg" width=75%>
 </div>
