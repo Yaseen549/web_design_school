@@ -1,5 +1,7 @@
-# Web Design School
-There are 4 Design Principles
+<h1 align=center>Web Design Concepts</h1>
+
+<p>There are 4 Main Design Principles</p>
+
 1. Color Theory
 2. Typography
 3. User Interface Design (UI)
@@ -40,8 +42,7 @@ There are 4 Design Principles
 <img src="imgs/c3.png" width=20%>
 </div>
 
-<h6> Colors</h6>
-<p>other schemes</p>
+<h6>Other schemes</h6>
 <div align=center>
 <img src="imgs/triangular.png" width=25%>
 <img src="imgs/FourColors.png" width=25%>
@@ -49,7 +50,6 @@ There are 4 Design Principles
 
 <h6>For more</h6>
 Vsit: <a href="https://color.adobe.com/create/color-wheel">Adobe Colors</a>, <a href="https://colorhunt.co/">Color hunt</a>
-
 
 <h2 align=center>User Interface</h2>
 1. Hierarchy <br>
@@ -76,7 +76,6 @@ Vsit: <a href="https://color.adobe.com/create/color-wheel">Adobe Colors</a>, <a 
 <img src="imgs/WebDesignExample5.jpg" width=45%>
 </div>
 
-
 <h4>3. Alignments</h4>
 <div align=center>
 <img src="imgs/WebDesignExample6.jpg" width=75%>
@@ -85,15 +84,15 @@ Vsit: <a href="https://color.adobe.com/create/color-wheel">Adobe Colors</a>, <a 
 <img src="imgs/a2.jpg" width=45%>
 </div>
 
-
 <h4>4. White Spaces (Around objects)</h4>
 <div align=center>
 <img src="imgs/WebDesignExample7.jpg" width=75%>
 </div>
 
-
-
 <h4>5. Audience</h4>
 <div align=center>
 <img src="imgs/WebDesignExample8.jpg" width=75%>
 </div>
+
+<h2 align=center>User Experience</h2>
+<h6 align=center >Updating soon..</h6>
