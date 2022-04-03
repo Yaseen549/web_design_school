@@ -1,6 +1,7 @@
 <h1 align=center>Web Design Concepts</h1>
-
+<div align=center>
 <p>There are 4 Main Design Principles</p>
+</div>
 
 1. Color Theory
 2. Typography
@@ -50,6 +51,15 @@
 
 <h6>For more</h6>
 Vsit: <a href="https://color.adobe.com/create/color-wheel">Adobe Colors</a>, <a href="https://colorhunt.co/">Color hunt</a>
+
+<h2 align=center>Typography</h2>
+<!-- 1. Serif
+- Old style
+- Transition
+- Modern
+- Slab-Serif  
+2. Sans-Serif -->
+<h6 align=center >Updating soon..</h6>
 
 <h2 align=center>User Interface</h2>
 1. Hierarchy <br>
